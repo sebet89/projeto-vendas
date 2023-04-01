@@ -13,6 +13,13 @@ Back-end
 Clone este repositório para o seu ambiente local.
 
 git clone https://github.com/sebet89/projeto-vendas.git
+
+Clone o repositório do front-end:
+
+git clone https://github.com/sebet89/projeto_teste_fron.git
+
+coloque este arquivo dentro do "projeto-vendas"
+
 Entre no diretório do backend.
 
 cd projeto-vendas/backend
@@ -30,7 +37,7 @@ _______________________
 Front-end
 Entre no diretório do front-end.
 
-cd projeto-vendas/frontend
+cd projeto-vendas/projeto_teste_fron
 
 Instale as dependências do projeto com o npm.
 

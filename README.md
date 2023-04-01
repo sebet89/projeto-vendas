@@ -5,8 +5,11 @@ Requisitos
 Node.js (v14+)
 PHP (7.4+)
 PostgreSQL (9+)
-Configuração do Ambiente
+
+Configuração do Ambiente:
+
 Back-end
+
 Clone este repositório para o seu ambiente local.
 
 git clone https://github.com/sebet89/projeto-vendas.git

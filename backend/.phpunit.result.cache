@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ProductTest::testCreate":4,"ProductTest::testAll":4,"ProductTypeTest::testCreate":4,"ProductTypeTest::testAll":4,"SaleTest::testCreate":4,"SaleTest::testAll":4},"times":{"ProductTest::testCreate":0.06,"ProductTest::testAll":0.002,"ProductTypeTest::testCreate":0.001,"ProductTypeTest::testAll":0,"SaleTest::testCreate":0.003,"SaleTest::testAll":0.003}}

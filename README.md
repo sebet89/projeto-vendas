@@ -24,6 +24,9 @@ Entre no diretório do backend.
 
 cd projeto-vendas/backend
 
+baixe pacotes de testes utilizando o comando:
+composer install (para isso é preciso estar com composer instalado na máquina)
+
 Configure o arquivo apiConfig.php alterando as configurações de banco de dados de acordo com o seu ambiente.
 
 Crie um banco de dados no PostgreSQL e execute o script php backend/migrate.php para criar as tabelas necessárias.
